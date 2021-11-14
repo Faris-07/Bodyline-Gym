@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Open+Sans:wght@300&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #3A3238;
+    font-size: 150%;
+}
+
+h1, h2, a {
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    color: #D2D5DD;
+}
+
+header {
+    background-color: #3A3238;
+    line-height: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+}
