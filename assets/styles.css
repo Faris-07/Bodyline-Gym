@@ -87,7 +87,7 @@ ul {
 }
 
 #info-box {
-    font-size: 130%;
+    font-size: 100%;
     font-family: 'Nunito', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -97,25 +97,21 @@ ul {
 
     padding-top: 10px;
     padding-left: 10px;
+    padding-bottom: 30px;
 
-    background-color: rgba(245,143,41, .7);
+    background-color: rgba(245,143,41, .6);
 
-    bottom: 175px;
-    right: 100px;
+    bottom: 40px;
+    right: 60px;
 
     position: absolute;
+}
+
+#info-box > h3 {
+    font-size: 75%;
 }
 
 .content {
     padding: 10px 0 0 50px;
 }
 
-.info-box-list {
-    text-align: center;
-    color: #D2D5DD;
-}
-
-.info-box-list, li {
-    text-align: left;
-    font-size: 25px;
-}
