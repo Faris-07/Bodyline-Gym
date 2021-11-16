@@ -91,13 +91,12 @@ ul {
     font-family: 'Nunito', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
+    text-align: center;
 
     width: 400px;
     height: 300px;
 
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-bottom: 30px;
+    padding: 5px 10px 30px 10px;
 
     background-color: rgba(245,143,41, .6);
 
@@ -109,6 +108,7 @@ ul {
 
 #info-box > h3 {
     font-size: 75%;
+    text-alig: left;
 }
 
 .content {
