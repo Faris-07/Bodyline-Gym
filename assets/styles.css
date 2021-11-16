@@ -19,7 +19,6 @@ header {
     background-color: #3A3238;
     height: 75px;
     padding-bottom: 20px;
-    margin-left: 25px;
 }
 
 a {
@@ -34,6 +33,11 @@ ul {
     list-style-type: none;
 }
 
+#logo {
+    float: left;
+    margin-left: 25px;
+}
+
 #nav {
     font-size: 110%;
     letter-spacing: 3px;
@@ -43,12 +47,20 @@ ul {
     float: right;
     list-style-type: none;
     margin-right: 25px;
-    line-height: 60px;
+    line-height: 40px;
 }
 
 #logo, #nav {
-    line-height: 60px;
+    line-height: 40px;
 }
+
+#hero-container { 
+        height: 800px;
+        width: 100%;
+        overflow: hidden;
+    
+        position: relative;
+    }
 
 #hero-image {
     height: 800px;
@@ -58,4 +70,52 @@ ul {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    overflow: hidden;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+#info-box {
+    font-size: 130%;
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+    width: 400px;
+    height: 300px;
+
+    padding-top: 10px;
+    padding-left: 10px;
+
+    background-color: rgba(245,143,41, .7);
+
+    bottom: 175px;
+    right: 100px;
+
+    position: absolute;
+}
+
+.content {
+    padding: 10px 0 0 50px;
+}
+
+.info-box-list {
+    text-align: center;
+    color: #D2D5DD;
+}
+
+.info-box-list, li {
+    text-align: left;
+    font-size: 25px;
 }
