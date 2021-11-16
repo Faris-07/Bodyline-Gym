@@ -12,6 +12,7 @@ h1, h2, a {
     font-family: 'Nunito', sans-serif;
     text-transform: uppercase;
     color: #D2D5DD;
+    
 }
 
 header {
@@ -42,15 +43,11 @@ ul {
     float: right;
     list-style-type: none;
     margin-right: 25px;
-    line-heigh: 60px;
+    line-height: 60px;
 }
 
 #logo, #nav {
     line-height: 60px;
-}
-
-.cente {
-    text-alig: center;
 }
 
 #hero-image {
