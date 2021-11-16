@@ -3,8 +3,9 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    color: #3A3238;
+    color: #D2D5DD;
     font-size: 150%;
+    background-color: #3A3238;
 }
 
 h1, h2, a {
@@ -15,19 +16,49 @@ h1, h2, a {
 
 header {
     background-color: #3A3238;
-    line-height: 50px;
+    height: 75px;
+    padding-bottom: 20px;
+    margin-left: 25px;
 }
-
-.center {
-    text-align: center;
-}
-
 
 a {
     text-decoration: none;
-    display: inline-block;
+}
+
+a:hover {
+    color: #F58F29;
 }
 
 ul {
     list-style-type: none;
+}
+
+#nav {
+    font-size: 110%;
+    letter-spacing: 3px;
+}
+
+#nav, li{
+    float: right;
+    list-style-type: none;
+    margin-right: 25px;
+    line-heigh: 60px;
+}
+
+#logo, #nav {
+    line-height: 60px;
+}
+
+.cente {
+    text-alig: center;
+}
+
+#hero-image {
+    height: 800px;
+    width: 100%;
+    background-color: #D2D5DD;
+    background: url('../assets/pexels-binyamin-mellish-17840.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
