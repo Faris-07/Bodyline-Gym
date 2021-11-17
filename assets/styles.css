@@ -92,6 +92,36 @@ hr {
     }
 }
 
+#gym-hero-image {
+    height: 800px;
+    width: 100%;
+    background-color: #D2D5DD;
+    background: url('../assets/Third_Space_Tower_Bridge_Studio_JMS_Uncropped-Compressed-for-CRM.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#spa-hero-image {
+    height: 800px;
+    width: 100%;
+    background-color: #D2D5DD;
+    background: url('../assets/Third_Space_Highbury_Shot_07_089.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#yoga-hero-image {
+    height: 800px;
+    width: 100%;
+    background-color: #D2D5DD;
+    background: url('../assets/Mind-and-Body@2x.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 #info-box {
     font-size: 100%;
     font-family: 'Nunito', sans-serif;
@@ -114,6 +144,35 @@ hr {
 
 #info-box > h3 {
     font-size: 75%;
+}
+
+.info-box-2 {
+    font-size: 100%;
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+
+    width: 100%;
+    height: 800px;
+
+    
+
+    background-color: rgba(58, 50, 56, .4);
+
+    bottom: 0;
+    right: 0;
+
+    position: absolute;
+}
+
+.info {
+    padding: 300px 50px 50px 50px;
+    font-weight: bold;
+}
+
+.info p {
+    font-family: 'Open Sans', sans-serif;
 }
 
 .content {
