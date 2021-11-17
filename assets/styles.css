@@ -6,6 +6,7 @@ body {
     color: #D2D5DD;
     font-size: 150%;
     background-color: #3A3238;
+    min-height: 100vh;
 }
 
 h1, h2, a {
@@ -40,6 +41,7 @@ hr {
 #logo {
     float: left;
     margin-left: 25px;
+    color: #F58F29;
 }
 
 #nav {
@@ -47,11 +49,11 @@ hr {
     letter-spacing: 3px;
 }
 
-#nav, li{
+#nav li{
     float: right;
     list-style-type: none;
     margin-right: 25px;
-    line-height: 40px;
+    line-height: 105px;
 }
 
 #logo, #nav {
@@ -136,10 +138,51 @@ hr {
 }
 
 footer {
-    height: 100px;
-    border-top: #D2D5DD;
+    height: 160px;
+    background-color: #468189;
+}
+
+#address {
+    padding-left: 10px;
+    float: left;
+}
+
+#contact {
+    text-align: right;
+    float: right;
+    padding-right: 10px;
+}
+
+#follow {
+    text-align: center;
+    padding-top: 3px;
+}
+
+#contact, #address, .socials {
+    line-height: 30px;
+}
+
+footer h2 {
+    font-size: 100%;
 }
 
 .socials {
     text-align: center;
+    padding-right: 5px;
+}
+
+.socials > li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 120%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding: 15px 15px 0 15px;
+}
+
+#socials > h2 {
+    text-align: center;
+    line-height: 30px;
 }
