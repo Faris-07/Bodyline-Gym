@@ -212,6 +212,8 @@ hr {
     border-bottom: 1px solid #F58F29;
 }
 
+/* Footer */
+
 footer {
     height: 160px;
     background-color: #468189;
@@ -273,21 +275,22 @@ footer h2 {
 /* Form */
 
 #form-heading {
-    margin: 100px 0 0 0;
+    padding-top: 150px;
     text-align: center;
 }
 
 #form {
     height: 900px;
+    display: flex;
+    justify-content: center;
 }
 
 .signup {
-    margin: 100px 0 0 0;
+    margin-top: 5vh;
     color: #D2D5DD;
     background-color: rgba(245,143,41, .8);
     max-width: 500px;
     position: absolute;
-    left: 35%;
     padding: 30px;
     width: 100%;
 }
@@ -312,5 +315,22 @@ footer h2 {
 .join-button:hover {
     background-color:  #F58F29;
     color: #D2D5DD;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: 950px) {
+    #nav {
+        clear: left;
+        float: right;
+        margin: 0 10px 10px 0;
+        line-height: 10px;
+    }
+
+    #info-box {
+        bottom: 0;
+        left: 0;
+    }
+
 }
 
