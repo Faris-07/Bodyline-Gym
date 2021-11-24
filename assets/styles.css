@@ -365,3 +365,19 @@ footer h2 {
         padding: 0;
     }
 }
+
+@media screen and (max-width: 520px) {
+
+    #info-box {
+        width: 100%;
+    }
+
+    .signup {
+        width: 95%;
+    }
+
+    body {
+        width: 95%;
+    }
+
+}
