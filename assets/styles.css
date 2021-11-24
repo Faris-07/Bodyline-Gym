@@ -334,3 +334,34 @@ footer h2 {
 
 }
 
+@media screen and (max-width: 750px) {
+    #container-1 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    footer {
+        height: 100%;
+    }
+
+    #address {
+        flex: 1;
+        order: 1;
+        text-align: center;
+        padding: 0;
+    }
+    
+    #contact {
+        flex: 1;
+        order: 2;
+        text-align: center;
+        padding: 0;
+    }
+    
+    .socials {
+        flex: 1;
+        order: 3;
+        text-align: center;
+        padding: 0;
+    }
+}
