@@ -99,6 +99,8 @@ hr {
     }
 }
 
+/* Hero container for Hero images on facilities page */
+
 .fac-hero-container { 
     height: 800px;
     width: 100%;
