@@ -6,7 +6,7 @@ The Bodyline Gym website is the landing page for anyone looking for a gym based 
 
 The Bodyline Gym offers great facilities such as a state of the art workout studio, spa, yoga rooms and also a 1 month free membership trial for new customers
 
-This site is targeted at people between the ages of 18-50 who want a space to workout and relax.
+This site is targeted at people between the ages of 18-50 based in London who want a space to workout and relax.
 
 Users of this website will be able to find all the information they need to know about Bodyline Gym:
 
@@ -19,23 +19,23 @@ Memberships
 Contact Details
 ```
 
-## Gitpod Reminders
+# Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Navigation
+   - Featured at the top of all three pages is a fully responsive navigation bar which includes links to the logo, Home page, Facilties page and Sign up page.
+   - They are all in the same style to allow for easy navigation and consistency through out the site.
+   - The navigation is in a light colour which contrasts with the background allowing the user to easily navigate through the site.
+   - The navigation clearly tells the user the name of the gym (logo) and makes the different sections of the site easy to find on all screen sizes.
+    ![Navbar](../assets/NavBar.png)
 
-`python3 -m http.server`
+## Landing Page Image
+   - The landing page includes a photo with an information box to allow the user to see the benefits of the gym.
+   - This section introduces the user to Bodyline gym with a clean zooming animation to grab the attention of the user.
+   ![HeroImage]()
 
-A blue button should appear to click: _Make Public_,
 
-Another blue button should appear to click: _Open Browser_.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
 To log into the Heroku toolbelt CLI:
 
