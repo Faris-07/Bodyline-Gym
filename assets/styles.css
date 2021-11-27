@@ -99,6 +99,14 @@ hr {
     }
 }
 
+.fac-hero-container { 
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
 /* Gym Hero image for facilties page */
 
 #gym-hero-image {
