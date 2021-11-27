@@ -1,10 +1,23 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome Faris-07,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+# Bodyline Gym
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+The Bodyline Gym website is the landing page for anyone looking for a gym based in London.
+
+The Bodyline Gym offers great facilities such as a state of the art workout studio, spa, yoga rooms and also a 1 month free membership trial for new customers
+
+This site is targeted at people between the ages of 18-50 who want a space to workout and relax.
+
+Users of this website will be able to find all the information they need to know about Bodyline Gym:
+
+```
+About the gym
+Facilties at the gym
+Location
+Open Times
+Memberships
+Contact Details
+```
 
 ## Gitpod Reminders
 
