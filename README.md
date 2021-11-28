@@ -72,7 +72,9 @@ Contact Details
    - HTML
       - No errors were returned when passing through the official W3C validator.
    - CSS
-      - No errors were found when passing through the official (Jigsaw) validator
+      - No errors were found when passing through the official (Jigsaw) validator.
+  
+   ![Lighthouse](/assets/images/lighthouse.png) 
 
 # Unfixed Bugs
    - No unfixed bugs
@@ -91,7 +93,7 @@ Contact Details
    - The code to make the hero image and information box was taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/6fd29d155c3b42248ff57bae32978a4b/)
    - Some of the code for the navigation bar flexbox media query at 520px and less was taken from [Stack Overflow](https://stackoverflow.com/questions/42199911/how-can-i-reorder-html-using-media-queries)
    - The code to make the navigation responsive for media query at 950px was taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/d48e6af85eb84191bebd57ece8b6fb73/)
-
+   
 ## Media
    - The hero image on the home page is taken from [Pexels](https://www.pexels.com/photo/man-lifting-barbel-17840/) 
    - The three images on the facilties page is taken from [here](https://www.thirdspace.london/tower-bridge/)
