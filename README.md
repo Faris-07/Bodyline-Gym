@@ -77,7 +77,7 @@ Contact Details
    ![Lighthouse](/assets/images/lighthouse.png) 
 
 # Unfixed Bugs
-   - No unfixed bugs
+   - The submit button for the form does not go anywhere as there is no database linked to the website.
 
 # Deployment
    - The site was deployed to GitHub pages. The steps to deploy are as follows:
