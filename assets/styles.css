@@ -220,7 +220,8 @@ hr {
 }
 
 .tile li {
-    text-align: center;
+    text-align: left;
+    list-style-type: disc;
 }
 
 .live-page {
@@ -395,7 +396,7 @@ footer h2 {
     }
 
     body {
-        width: 95%;
+        width: 96%;
     }
 
     #nav {
@@ -419,7 +420,7 @@ footer h2 {
         order: 1;
       }
 
-      #form-heading {
+    #form-heading {
         clear: both;
         padding: 10px;
     }
