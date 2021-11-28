@@ -27,7 +27,7 @@ Contact Details
    - The navigation is in a light colour which contrasts with the background allowing the user to easily navigate through the site.
    - The navigation bar also features an orange line under the page (Home, Facilties and Sign up) the user is currently on making it easier to navigate.
    - The navigation clearly tells the user the name of the gym (logo) and makes the different sections of the site easy to find on all screen sizes.
-    ![Navbar](../assets/NavBar.png)
+    ![Navbar](/assets/NavBar.png)
 
 ## Landing Page Image
    - The landing page includes a photo with an information box to allow the user to see the benefits of the gym.
@@ -87,6 +87,7 @@ Contact Details
 ## Content
    - The code to make the social media links was taken from the [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/)
    - The code to make the hero image and information box was taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/6fd29d155c3b42248ff57bae32978a4b/)
+   - Some of the code for the navigation bar flexbox media query at 520px and less was taken from [Stack Overflow](https://stackoverflow.com/questions/42199911/how-can-i-reorder-html-using-media-queries)
 
 ## Media
    - The hero image on the home page is taken from [Pexels](https://www.pexels.com/photo/man-lifting-barbel-17840/) 
