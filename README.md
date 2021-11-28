@@ -25,6 +25,7 @@ Contact Details
    - Featured at the top of all three pages is a fully responsive navigation bar which includes links to the logo, Home page, Facilties page and Sign up page.
    - They are all in the same style to allow for easy navigation and consistency through out the site.
    - The navigation is in a light colour which contrasts with the background allowing the user to easily navigate through the site.
+   - The navigation bar also features an orange line under the page (Home, Facilties and Sign up) the user is currently on making it easier to navigate.
    - The navigation clearly tells the user the name of the gym (logo) and makes the different sections of the site easy to find on all screen sizes.
     ![Navbar](../assets/NavBar.png)
 
@@ -33,8 +34,33 @@ Contact Details
    - This section introduces the user to Bodyline gym with a clean zooming animation to grab the attention of the user.
    ![HeroImage]()
 
+## About Us Section
+   - The about us section explains who Bodyline gym are. 
+   - It also explains that bodyline gym has something for everyone no matter what skill level they are at.
+   ![Aboutus]()
 
+## Membership Section
+   - The membership section explains to the user important information about the benefits of being a bodyline member.
+   - It also tells the user that they should sign up for the 1 month Free membership
+   ![Membership]()
 
+## Footer
+   - The footer provides important information to the user such as the location of the gym and contact details.
+   - The location and contact details is important to the user as it gives the user the ability to find and contact the gym.
+   - The footer also includes social media links so the user can see and connect with the gym. The links will open to a new tab to allow easy navigation for the user.
+   ![Footer]() 
+
+## Facilties Page
+   - The facilties page provides the user with supporting images showing the user the facilties of the gym.
+   - This page is important for the user as they will be able to easily identify all the facilties at the gym.
+   ![Facilties]() 
+
+## Sign Up Page
+   - The sign up page allows the user to to get signed up to become a bodyline member and get a 1 month free trial.
+   - The user is asked to submit their full name and email address.
+   - The sign up page is important for the user as it allows them to be able to become a bodyline member.
+
+# Testing
 
 
 To log into the Heroku toolbelt CLI:
