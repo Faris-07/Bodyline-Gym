@@ -8,6 +8,7 @@ body {
     font-size: 150%;
     background-color: #3A3238;
     min-height: 100vh;
+    padding: 0 1vw 0 1vw;
 }
 
 h1, h2, a {
@@ -393,10 +394,6 @@ footer h2 {
 
     .signup {
         width: 95%;
-    }
-
-    body {
-        width: 96%;
     }
 
     #nav {

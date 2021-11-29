@@ -62,6 +62,9 @@ Contact Details
    - The sign up page is important for the user as it allows them to be able to become a bodyline member.
    ![Sign Up](/assets/images/signup.png) 
 
+## Features to Implement
+   - A feature to implement is making the from go to a database as it does not go anywhere as the action attribute is set to "#" 
+
 # Testing
    - I tested that this website works in different browsers (Chrome, Firefox, Safari)
    - I confirm that this project is responsive, accessible and functions on all standard screen sizes using the devtools device toolbar.
