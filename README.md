@@ -96,8 +96,9 @@ Contact Details
    - The code to make the hero image and information box was taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/6fd29d155c3b42248ff57bae32978a4b/)
    - Some of the code for the navigation bar flexbox media query at 520px and less was taken from [Stack Overflow](https://stackoverflow.com/questions/42199911/how-can-i-reorder-html-using-media-queries)
    - The code to make the navigation responsive for media query at 950px was taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/d48e6af85eb84191bebd57ece8b6fb73/)
+   - Some of the code for the form was taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/4d85cd1a2c57485abbd8ccec8c00732c/)
    
 ## Media
    - The hero image on the home page is taken from [Pexels](https://www.pexels.com/photo/man-lifting-barbel-17840/) 
    - The three images on the facilties page is taken from [here](https://www.thirdspace.london/tower-bridge/)
-
+   - The fonts where taken from [Fontawesome](https://fontawesome.com/)
